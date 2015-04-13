@@ -1,0 +1,5 @@
+2.txt,  - mammals.
+1.txt,  - buffalo
+1.txt, 2.txt,  - Buffalo
+2.txt,  - are
+1.txt,  - buffalo.

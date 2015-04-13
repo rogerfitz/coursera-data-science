@@ -1,0 +1,10 @@
+import sys
+import json
+
+fi = open(sys.argv[1])		
+for line in fi:
+	line = json.loads(line)
+	s = line[0]+" - "
+	for i in line[1]:
+		s+=str(i)+", "
+	print s
