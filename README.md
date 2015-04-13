@@ -1,5 +1,6 @@
-datasci_course_materials
+Coursera Intro to Data Science Course assignments 2011
 ========================
 
-Public repository for course materials for the Spring 2013 session of Introduction to Data Science, an online coursera course.
+I use as a reference for assignments I did for coursera course https://www.coursera.org/course/datasci
+
 
